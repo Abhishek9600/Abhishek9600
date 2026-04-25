@@ -12,17 +12,11 @@ Backend Developer and AI/ML enthusiast focused on building scalable APIs and ML-
 
 **Data-Driven Applications**: Worked on platforms like DropConnect (water resilience) and Exoplanetarium (space data analysis), combining ML with real-world datasets.
 
-
-I prefer building things that solve concrete problems over purely experimental work—especially where data, backend systems, and ML intersect. Most of my projects are driven by real-world use cases rather than isolated features.
-
-
 ### Achievements
 
 🏆 Xylem Global Student Innovation Challenge 2025 — Winner  
 🥈 NASA Space Apps Challenge 2025 — 2nd Runner-Up  
 
-Currently Exploring frontend development with React and improving full-stack integration.
+**Currently** Exploring frontend development with **React** and improving **Full-Stack Integration**.
 
-Email: abhishekchaubey501@gmail.com  
-LinkedIn: https://www.linkedin.com/in/abhishek-chaubey-877788215/  
-GitHub: https://github.com/Abhishek9600  
+Email: abhishekchaubey501@gmail.com     |     LinkedIn: https://www.linkedin.com/in/abhishek-chaubey-877788215/ 
